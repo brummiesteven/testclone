@@ -1,9 +1,9 @@
-![Banner](/../../resources/welcomebanner.png)
+![Banner](../../../resources/welcomebanner.png)
 
 <!--- - Introduction--->
 - [Introduction](/../../)
 - Challenge 1: Visualise Work
-- [Challenge 2: Development Practices](/../content/02_development_practices)
+- [Challenge 2: Development Practices](../../content/02_development_practices)
 - [Challenge 3: Continuous Integration](content/03_continuous_integration)
 - [Challenge 4: Security & Test Automation](content/04_security_and_test_automation)
 - [Challenge 5: Automated Deployment & Continuous Delivery](content/05_automated_deployment)
