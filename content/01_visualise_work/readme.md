@@ -1,4 +1,4 @@
-![Banner](../../../resources/welcomebanner.png)
+![Banner](../../resources/WelcomeBanner.png)
 
 <!--- - Introduction--->
 - [Introduction](/../../)
