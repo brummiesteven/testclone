@@ -10,18 +10,14 @@
 
 # Challenge 06: Monitoring & Feedback  
 _Duration: XX minutes_  
-_Docs:_ 
-_https://github.com/_  
-_https://github.com_  
 
 Closing the loop...
 
-## Task1: Close the feedback loop
+## Task 1: Close the feedback loop
 
 - Azure Monitor or similar?
 - App Insights - unhandled exceptions 
 - Create GitHub Issue
-- Issue Templates?
 
 | :warning: Take note about something! |
 | --- |
