@@ -10,34 +10,26 @@
 
 # Challenge 01: Visualise Work & Communication  
 _Duration: XX minutes_  
-_Docs: https://github.com/_  
-_https://github.com_  
 
-In this exercise you will do some things
+Communication...
 
-- Communication
+## Task 1: GitHub Issues
 
-- GitHub Issues & Projects
-  - Issue Templates
-  - Project board configuration
+- Issue Templates
+- Issue Labels
 
-- Integration with Azure Boards/Jira/Trello
+## Core Task 2: Project Boards
 
-Teams integration
+- Repo level
+- Org level
 
-Office 365 dev subscription.  Create 25 users. Full office for 90 days.  emails
+## Extension: Azure Boards/Jira/Trello integration
 
-## Core Task 1: Do Something
+- integrate with the task management tool of choice in your organisation
 
-Stuff
+## Extension: Microsoft Teams integration
 
-## Core Task 2: Do Something
-
-Stuff
-
-## Extension Task: Do Something further
-
-Stuff
+- Office 365 dev subscription.  Create 25 users. Full office for 90 days.  emails
 
 | :warning: Take note about something! |
 | --- |
