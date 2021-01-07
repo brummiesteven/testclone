@@ -10,9 +10,6 @@
 
 # Challenge 02: Development Practices  
 _Duration: XX minutes_  
-_Docs:_ 
-- _[Defining the mergeability of pull requests](https://docs.github.com/en/free-pro-team@latest/github/administering-a-repository/defining-the-mergeability-of-pull-requests)_  
-- _[About Pull Requests](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests)_  
 
 In our challenge we will use our GitHub repository for all version control, storing any code, IaC or scripts. We will use Trunk-based development for the challenge as it has been shown to be a predictor for high performance in software delivery.  Fewer branches, short branch/fork lifetimes, avoid code freeze and merge debt.
 
@@ -49,7 +46,6 @@ Read more about GitHub flow [here](https://guides.github.com/introduction/flow/)
 
 # Resources
 
+- [Defining the mergeability of pull requests](https://docs.github.com/en/free-pro-team@latest/github/administering-a-repository/defining-the-mergeability-of-pull-requests)  
+- [About Pull Requests](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests)
 - [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
-- [Resource](https://github.com)
-- [Resource](https://github.com)
-- [Resource](https://github.com)
