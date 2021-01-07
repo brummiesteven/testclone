@@ -1,6 +1,6 @@
 ![Banner](../../resources/WelcomeBanner.png)
 
-- [Introduction](../)
+- [Introduction](/../..)
 - [Challenge 1: Visualise Work](../../content/01_visualise_work)
 - [Challenge 2: Development Practices](../../content/02_development_practices)
 - [Challenge 3: Continuous Integration](../../content/03_continuous_integration)
@@ -8,20 +8,22 @@
 - Challenge 5: Automated Deployment & Continuous Delivery
 - [Challenge 6: Monitoring & Feedback](../../content/06_monitoring_and_feedback)
 
-# Challenge 0X: Something  
+# Challenge 05: Automated Deployment  
 _Duration: XX minutes_  
-_Docs: https://github.com/_  
-_https://github.com_  
+_Docs:_ 
+_[Link](https://github.com/)_  
+_[Link](https://github.com)_  
 
-In this exercise you will do some things
+Automated deployment...
 
-- GitHub Actions
-  - Deploy to Azure (probably container(s) into Azure Kubernetes Service (although that will require an Azure subscription))
-  - Self-hosted runner
+## Task1: Deploy to Azure
 
-- Custom GitHub Action preferably using the GitHub API
+- Deploy to Azure (probably container(s) into Azure Kubernetes Service)
 
-## Task1: Do Something
+## Task1: Configure self-hosted runner
+
+## Extension: Custom GitHub Action
+
 
 | :warning: Take note about something! |
 | --- |
