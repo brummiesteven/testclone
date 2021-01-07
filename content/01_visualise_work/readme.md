@@ -18,7 +18,7 @@ Communication...
 - Issue Templates
 - Issue Labels
 
-## Core Task 2: Project Boards
+## Task 2: Project Boards
 
 - Repo level
 - Org level
