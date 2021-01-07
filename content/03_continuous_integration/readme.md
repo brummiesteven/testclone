@@ -18,7 +18,7 @@ Continuous integration...
 
 ## Task1: Build every Pull Request
 
-- GitHub Actions or other.
+- GitHub Actions workflow or other to build code.
 - Integrate with PR
 
 ## Task 2: Publish to GitHub Packages/Container Registry
