@@ -13,7 +13,7 @@ _Duration: XX minutes_
 
 Continuous integration...
 
-## Task1: Build every Pull Request
+## Task 1: Build every Pull Request
 
 - GitHub Actions workflow or other to build code.
 - Integrate with PR
