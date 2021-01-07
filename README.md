@@ -66,7 +66,7 @@ Deploy your application to multiple Azure environments
 
 Maintain a feedback loop from your running application and end users.  Automate the process to drive project priorities and react to issues quickly.
 
-### Resources
+## Resources
 
 - [GitHub](https://github.com)
 - [GitHub State of the Octoverse 2020](https://octoverse.github.com)
