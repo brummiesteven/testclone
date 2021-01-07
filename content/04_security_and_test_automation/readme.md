@@ -1,6 +1,6 @@
 ![Banner](../../resources/WelcomeBanner.png)
 
-- [Introduction](../..)
+- [Introduction](/../../)
 - [Challenge 1: Visualise Work](../../content/01_visualise_work)
 - [Challenge 2: Development Practices](../../content/02_development_practices)
 - [Challenge 3: Continuous Integration](../../content/03_continuous_integration)
@@ -8,22 +8,27 @@
 - [Challenge 5: Automated Deployment & Continuous Delivery](../../content/05_automated_deployment)
 - [Challenge 6: Monitoring & Feedback](../../content/06_monitoring_and_feedback)
 
-# Challenge 0X: Something  
+# Challenge 04: Security & test automation  
 _Duration: XX minutes_  
 _Docs: https://github.com/_  
 _https://github.com_  
 
-In this exercise you will do some things
+Shifting left on security...
 
-- GitHub Actions
-  - Unit Test
-  - Code Scanning
+A point on the availability of code scanning & security scanning.
   
-- Dependabot
-  - Update Dependencies
-  - Update Actions
-  
-## Task1: Do Something
+## Task 1: Dependabot
+
+- Configure Dependabot
+- Update out of date Actions
+
+## Task 2: Configure Unit Testing
+
+- Unit testing with GitHub Actions
+
+## Task 3: Configure Unit Testing
+
+- Code Scanning with GitHub Actions
 
 | :warning: Take note about something! |
 | --- |
