@@ -10,8 +10,6 @@
 
 # Challenge 04: Security & test automation  
 _Duration: XX minutes_  
-_Docs: https://github.com/_  
-_https://github.com_  
 
 Shifting left on security...
 
