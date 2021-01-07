@@ -1,6 +1,6 @@
 ![Banner](../../resources/WelcomeBanner.png)
 
-- [Introduction](../)
+- [Introduction](/..../)
 - [Challenge 1: Visualise Work](../../content/01_visualise_work)
 - [Challenge 2: Development Practices](../../content/02_development_practices)
 - [Challenge 3: Continuous Integration](../../content/03_continuous_integration)
@@ -8,17 +8,20 @@
 - [Challenge 5: Automated Deployment & Continuous Delivery](../../content/05_automated_deployment)
 - Challenge 6: Monitoring & Feedback
 
-# Challenge 0X: Something  
+# Challenge 06: Monitoring & Feedback  
 _Duration: XX minutes_  
-_Docs: https://github.com/_  
+_Docs:_ 
+_https://github.com/_  
 _https://github.com_  
 
-In this exercise you will do some things
+Closing the loop...
+
+## Task1: Close the feedback loop
 
 - Azure Monitor or similar?
-App Insights - unhandled exceptions - 
-
-## Task1: Do Something
+- App Insights - unhandled exceptions 
+- Create GitHub Issue
+- Issue Templates?
 
 | :warning: Take note about something! |
 | --- |
