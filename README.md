@@ -4,7 +4,7 @@
 
 ## Contents
 
-- [Introduction](../..)
+- Introduction
 - [Challenge 1: Visualise Work](content/01_visualise_work)
 - [Challenge 2: Development Practices](content/02_development_practices)
 - [Challenge 3: Continuous Integration](content/03_continuous_integration)
@@ -15,20 +15,20 @@
 
 ## Introduction
 
-This DevOps Hack project is designed to help attendees learn about good DevOps practices with GitHub for deploying to Azure.  
+This DevOps Hack project is designed to help attendees learn about good DevOps technical practices with GitHub for deploying to Azure.  
 
-In [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.co.uk/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339), authors Nicole Forsgren, Jez Humble, and Gene Kim present research that surfaces the key technical and management practices that high-performing DevOps teams have adopted and continue to refine.
+In [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.co.uk/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339), authors Nicole Forsgren, Jez Humble, and Gene Kim present research that surfaces the key technical and management practices that high-performing DevOps teams have adopted as an enabler of more frequent, higher-quality and lower risk software releases.
 
-We have used the practices listed by the authors under the heading of **Continuous Delivery** to guide the challenges in this hack.  High-performing DevOps teams have adopted many of these practices to help them achieve a continuous delivery model.
+We have used the practices listed by the authors under the heading of **Continuous Delivery** to guide the challenges in this hack.  High-performing DevOps teams have adopted many of these capabilities to help them achieve a continuous delivery model.
 
-- Version Control
-- Deployment automation
-- Continuous integration (CI)
-- Trunk-based development
-- Test automation
-- Test data management
-- Shift left on security (DevSecOps)
-- Continuous delivery (CD)
+- Use Version Control for all production artifacts
+- Automate your deployment process
+- Implement continuous integration
+- Use trunk-based development methods
+- Implement test automation
+- Support test data management
+- Shift left on security
+- Implement continuous delivery
 
 ## Pre-requisites
 
