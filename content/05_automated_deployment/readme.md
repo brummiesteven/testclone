@@ -13,14 +13,17 @@ _Duration: XX minutes_
 
 Automated deployment...
 
-## Task1: Deploy to Azure
+## Task 1: Deploy to Azure
 
 - Deploy to Azure (probably container(s) into Azure Kubernetes Service)
 
-## Task1: Configure self-hosted runner
+## Task 2: Configure self-hosted runner
+
+- Actions runners
 
 ## Extension: Custom GitHub Action
 
+- Custom action
 
 | :warning: Take note about something! |
 | --- |
