@@ -25,9 +25,8 @@ Read more about GitHub flow [here](https://guides.github.com/introduction/flow/)
 - Understand GitHub Flow
 - Protect **main** branch
 
-## Task 2: Required Checks
+## Task 2: Required Review
 
-- Required Build using GitHub Actions or other
 - Codeowner review
 
 ## Other things to work into this section
