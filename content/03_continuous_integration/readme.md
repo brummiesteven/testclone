@@ -1,6 +1,6 @@
 ![Banner](../../resources/WelcomeBanner.png)
 
-- [Introduction](../..)
+- [Introduction](/../..)
 - [Challenge 1: Visualise Work](../../content/01_visualise_work)
 - [Challenge 2: Development Practices](../../content/02_development_practices)
 - Challenge 3: Continuous Integration
@@ -8,25 +8,31 @@
 - [Challenge 5: Automated Deployment & Continuous Delivery](../../content/05_automated_deployment)
 - [Challenge 6: Monitoring & Feedback](../../content/06_monitoring_and_feedback)
 
-# Challenge 0X: Something  
+# Challenge 03: Continuous Integration  
 _Duration: XX minutes_  
-_Docs: https://github.com/_  
-_https://github.com_  
+_Docs:_ 
+_[About continuous integration](https://docs.github.com/en/free-pro-team@latest/actions/guides/about-continuous-integration)_  
+_[GitHub Actions](https://docs.github.com/en/free-pro-team@latest/actions)_  
 
-In this exercise you will do some things
+Continuous integration...
 
-- GitHub Actions 
-  - Build
-- GitHub Packages/Container Registry
+## Task1: Build every Pull Request
 
-## Task1: Do Something
+- GitHub Actions or other.
+- Integrate with PR
+
+## Task 2: Publish to GitHub Packages/Container Registry
+
+- Workflow to deploy built package
+
+## Extension 
+
+- Build a workflow to do something else
 
 | :warning: Take note about something! |
 | --- |
 
 ## Resources
 
-- [Resource](https://github.com)
-- [Resource](https://github.com)
-- [Resource](https://github.com)
-- [Resource](https://github.com)
+- [GitHub Actions Marketplace](https://github.com/marketplace?type=actions)
+- [GitHub Learning Lab: Continuous integration with GitHub Actions](https://lab.github.com/githubtraining/github-actions:-continuous-integration)
