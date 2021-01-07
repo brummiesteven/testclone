@@ -1,6 +1,6 @@
 ![Banner](../../resources/WelcomeBanner.png)
 
-- [Introduction](/..../)
+- [Introduction](/../../)
 - [Challenge 1: Visualise Work](../../content/01_visualise_work)
 - [Challenge 2: Development Practices](../../content/02_development_practices)
 - [Challenge 3: Continuous Integration](../../content/03_continuous_integration)
