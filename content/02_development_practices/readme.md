@@ -33,7 +33,6 @@ Read more about GitHub flow [here](https://guides.github.com/introduction/flow/)
 - Repository Members and permissions
 - Repository Visibility
 - GitHub Teams
-- Integration with Microsoft Teams
 
 ## Extension
 
