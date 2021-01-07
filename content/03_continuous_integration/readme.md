@@ -10,9 +10,6 @@
 
 # Challenge 03: Continuous Integration  
 _Duration: XX minutes_  
-_Docs:_ 
-_[About continuous integration](https://docs.github.com/en/free-pro-team@latest/actions/guides/about-continuous-integration)_  
-_[GitHub Actions](https://docs.github.com/en/free-pro-team@latest/actions)_  
 
 Continuous integration...
 
@@ -34,5 +31,7 @@ Continuous integration...
 
 ## Resources
 
+- [About continuous integration](https://docs.github.com/en/free-pro-team@latest/actions/guides/about-continuous-integration)
+- [GitHub Actions](https://docs.github.com/en/free-pro-team@latest/actions)
 - [GitHub Actions Marketplace](https://github.com/marketplace?type=actions)
 - [GitHub Learning Lab: Continuous integration with GitHub Actions](https://lab.github.com/githubtraining/github-actions:-continuous-integration)
