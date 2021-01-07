@@ -10,9 +10,6 @@
 
 # Challenge 05: Automated Deployment  
 _Duration: XX minutes_  
-_Docs:_ 
-_[Link](https://github.com/)_  
-_[Link](https://github.com)_  
 
 Automated deployment...
 
