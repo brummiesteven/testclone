@@ -11,22 +11,29 @@
 # Challenge 03: Continuous Integration  
 _Duration: XX minutes_  
 
-Continuous integration...
+Continuous integration is the first step towards continuous delivery.  Branches should be short lived and code integrated with the main branch regularly (use feature flags if necessary).  Every code change should trigger a build and execute required checks (linting/unit testing) and any errors/issues fixed immediately.  
+
+In our GitHub Flow process we will build the code that is proposed for merging to `main` and execute 
 
 ## Task 1: Build every Pull Request
 
-- GitHub Actions workflow or other to build code.
-- Integrate with PR
+a) Create a new GitHub Actions workflow (or integrate another CI tool) and build code.
+
+b) Edit the workflow to only build on the submission of a Pull Request to the main branch
+
+c) Add a manual trigger to the workflow
 
 ## Task 2: Publish to GitHub Packages/Container Registry
 
 - Workflow to deploy built package
 
+**TODO** Check that app will be containerised 
+
 ## Extension 
 
-- Build a workflow to do something else
+- Create a Workflow which will add a comment (or gif perhaps?) to any Issue which is labeled with the label `Hello`
 
-| :warning: Take note about something! |
+| :question: Can you think of any other fun things to do with Actions Workflows? :question:|
 | --- |
 
 ## Resources
