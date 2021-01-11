@@ -40,7 +40,7 @@ Read more about GitHub flow [here](https://guides.github.com/introduction/flow/)
 - [GitHub Apps](https://docs.github.com/en/free-pro-team@latest/developers/apps)
 - [Probot](https://github.com/probot/probot)
 
-| :warning: Can you host your GitHub app in Azure? |
+| :question: Can you host your GitHub app in Azure? :question: |
 | --- |
 
 # Resources
