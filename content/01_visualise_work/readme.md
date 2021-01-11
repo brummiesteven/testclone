@@ -11,12 +11,28 @@
 # Challenge 01: Visualise Work & Communication  
 _Duration: XX minutes_  
 
-Communication...
+Before we start to look at technical practices in our project we need to think about how we will communicate as a product team.  The aims of this challenge are: 
+
+- Decide the artefacts the team will use to track work in the project and what information will they contain.
+- Visualise the flow of work from inception through to value delivery to the user.
+- Gather and action feedback within the project  
+- Track progress of a release, product or feature
+- Integrate development with a messaging platform such as Microsoft Teams
 
 ## Task 1: GitHub Issues
 
-- Issue Templates
-- Issue Labels
+GitHub Issues can be used to to track ideas, enhancements, tasks, feedback or bugs for work on GitHub.  All Issues can be assigned to a user or users and can be tagged to allow quicker searching or grouped together in milestones.
+
+a) Create GitHub Issue templates to track the following:
+
+- Tasks
+- Bugs
+- Customer feedback
+
+| :question: What information do you require for each Issue type? :question: |
+| --- |
+
+b) Create some useful labels and apply them to your Issues and then [experiment with searching Issues by label](https://docs.github.com/en/free-pro-team@latest/github/searching-for-information-on-github/searching-issues-and-pull-requests#search-by-label)
 
 ## Task 2: Project Boards
 
@@ -31,12 +47,10 @@ Communication...
 
 - Office 365 dev subscription.  Create 25 users. Full office for 90 days.  emails
 
-| :warning: Take note about something! |
-| --- |
 
 ## Resources
-
-- [Resource](https://github.com)
-- [Resource](https://github.com)
-- [Resource](https://github.com)
-- [Resource](https://github.com)
+- [Managing your work on GitHub](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github)
+- [Using templates to encourage useful issues and pull requests](https://docs.github.com/en/free-pro-team@latest/github/building-a-strong-community/using-templates-to-encourage-useful-issues-and-pull-requests)
+- [Mastering Issues](https://guides.github.com/features/issues/)
+- [Managing your work with issues and pull requests](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/managing-your-work-with-issues-and-pull-requests)
+- [Managing project boards](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/managing-project-boards)
