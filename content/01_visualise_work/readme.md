@@ -36,16 +36,23 @@ b) Create some useful labels and apply them to your Issues and then [experiment 
 
 ## Task 2: Project Boards
 
-- Repo level
-- Org level
+Visualise all of your work and prioritize it right alongside your code with projects boards. See what tasks are planned or in-progress, either in a repository or across your organization.  You can create project boards for specific feature work, comprehensive roadmaps, or even release checklists.
+
+a) Create a repository level project board that we will use to track future tasks for your team.  Choose `Automated kanban with review` for your board template.
+
+_Repository project boards are scoped to issues and pull requests within a single repository. They can also include notes that reference issues and pull requests in other repositories_
+
+b) **TODO**  Add another step to this task.  Edit board?   
 
 ## Extension: Azure Boards/Jira/Trello integration
 
-- integrate with the task management tool of choice in your organisation
+- Integrate with the task management tool of choice in your organisation.
 
 ## Extension: Microsoft Teams integration
 
-- Office 365 dev subscription.  Create 25 users. Full office for 90 days.  emails
+- Integrate your GitHub repository with Microsoft Teams (you _could_ also use Slack for this step)
+
+**TODO** Investigate Office 365 dev subscription for this step if attendees do not have Teams admin rights.
 
 
 ## Resources
