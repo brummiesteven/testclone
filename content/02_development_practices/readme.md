@@ -24,20 +24,12 @@ Read more about Microsoft's Release Flow [here](https://docs.microsoft.com/en-us
 ## Task 1: Branch Protection
 
 - Familiarise yourselves with GitHub Flow and/or Release Flow and discuss how you will work with code changes and deployments in the project.  
-- Document your approach to branching in a CONTRIBUTING file
-- Review the options to protect the **main** branch and ensure that at least one review is required on all Pull Requests before they are merged to `main`
+- Document your approach to branching in a **CONTRIBUTING** file
+- Review the options to protect the `main` branch and ensure that at least one review is required on all Pull Requests before they are merged to `main`
 
 ## Task 2: Required Review
 
 - Add a **CODEOWNERS** file and update your branch protection to require a review from the relevant specialist or owner.
-
-## Other things to work into this section
-
-- Dependabot
-- Codespaces/Liveshare
-- Repository Members and permissions
-- Repository Visibility
-- GitHub Teams
 
 ## Extension
 
