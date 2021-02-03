@@ -24,7 +24,7 @@ A point on the availability of code scanning & security scanning.
 
 - Unit testing with GitHub Actions
 
-## Task 3: Configure Unit Testing
+## Task 3: Configure Code Scanning
 
 - Code Scanning with GitHub Actions
 
