@@ -13,10 +13,10 @@ _Duration: XX minutes_
 
 ## Challenge Objectives
 
-- [] Create a GitHub Issue for each objective across the six challenges [csv](http://www.github.com)
-- [] Add a Label to each Issue to indicate which challenge it belongs to 
-- [] Create an `Automated Kanban with review` Repository level project board and include all open Issues
-- [] Add an Issue template to track `Customer feedback`
+- [ ] Create a GitHub Issue for each objective across the six challenges [csv](http://www.github.com)
+- [ ] Add a Label to each Issue to indicate which challenge it belongs to 
+- [ ] Create an `Automated Kanban with review` Repository level project board and include all open Issues
+- [ ] Add an Issue template to track `Customer feedback`
 
 ## Introduction
 
