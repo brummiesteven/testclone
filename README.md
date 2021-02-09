@@ -42,9 +42,34 @@ We have used the practices listed by the authors under the heading of **Continuo
 
 The exercise is broken down into six challenges.  Most challenges can be worked on independently but we would encourage you to follow the suggested order.  All challenges can be complete using existing GitHub and Azure functionality but feel free to go off piste and incorporate your favourite DevOps tooling to make the exercise more relevant to your organisation.
 
+The timetable for the day is as follows:
+
+| Time          | Session                         | Required           |
+|---------------|---------------------------------|--------------------|
+| 10:00 - 10:30 | Introduction to the DevOps Hack | :heavy_check_mark: |
+| 00:00 - 00:00 | Challenge demo                  |                    |
+| 00:00 - 00:00 | Challenge demo                  |                    |
+| 00:00 - 00:00 | Challenge demo                  |                    |
+| 00:00 - 00:00 | Mid-point check in              | :heavy_check_mark: |
+| 00:00 - 00:00 | Challenge demo                  |                    |
+| 00:00 - 00:00 | Challenge demo                  |                    |
+| 00:00 - 00:00 | Final presentations             | :heavy_check_mark: |
+| 00:00 - 00:00 | Wrap up                         | :heavy_check_mark: |
+
+If you are already familiar with GitHub and many of the practices in the challenges then feel free to go at your own pace and concentrate on the optional extensions or come up with your own!  We'd love to see what awesome things you have created at the end of the day.
+
+## Objectives
+
+A complete list of objectives including optional extensions is available as a [csv file](http://www.github.com)
+
 ### Visualise work
 
 GitHub provides Issues and Project Boards to enable you to track your project requirements.  
+
+- [ ] Create a GitHub Issue for each objective across the six challenges [csv](http://www.github.com)
+- [ ] Add a Label to each Issue to indicate which challenge it belongs to 
+- [ ] Create an `Automated Kanban with review` Repository level project board and include all open Issues
+- [ ] Add an Issue template to track `Customer feedback`
 
 ### Development Practices
 
