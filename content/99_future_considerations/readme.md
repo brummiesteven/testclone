@@ -24,6 +24,16 @@ _Duration: XX minutes_
 - Codespaces
 - VS Code Liveshare
 
+## Extension: Azure Boards/Jira/Trello integration
+
+- Integrate with the task management tool of choice in your organisation.
+
+## Extension: Microsoft Teams integration
+
+- Integrate your GitHub repository with Microsoft Teams (you _could_ also use Slack for this step)
+
+**TODO** Investigate Office 365 dev subscription for this step if attendees do not have Teams admin rights.
+
 ## Task 1: X
 
 | :question: XXXXX? :question: |
